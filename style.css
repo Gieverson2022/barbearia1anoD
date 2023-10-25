@@ -1,6 +1,19 @@
-body{ font-size: 20px;
-text-align: center;
-background-color: gray;}
+body{  font-size: 16px;
+     }
 
+.principal{ background-color: gray;
+    text-align: center;}
 
-.destaque{color: red;}
+.negrito{color: red;
+}
+
+.subtitulo{text-align: center;}
+
+.imagem-beneficio{width: 50%;}
+
+.lista{ display: inline-block;
+vertical-align: top;}
+
+.imagem{width: 100%;}
+
+.titulo{ padding: 20px;}
